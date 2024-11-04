@@ -9,4 +9,5 @@ tqdm
 typer
 kagglehub
 pandas
+nltk
 -e .
