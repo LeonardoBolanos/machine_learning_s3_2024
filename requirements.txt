@@ -10,4 +10,5 @@ typer
 kagglehub
 pandas
 nltk
+phik
 -e .
