@@ -11,4 +11,9 @@ kagglehub
 pandas
 nltk
 phik
+umap-learn
+seaborn
+ucimlrepo
+setuptools>=14.0 
+mictools
 -e .
